@@ -1,0 +1,8 @@
+.idea/
+venv/
+D2/__pycache__/
+D2/__init__.py
+NewsPaper/__pycache__/
+NewsPaper/migrations/
+NewsPaper/__init__.py
+db.sqlite3
